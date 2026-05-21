@@ -43,6 +43,10 @@ Streamly is a high-performance video streaming platform built with Next.js and F
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
